@@ -7,6 +7,7 @@
 2020;Arsenal;8
 2021;Arsenal;8
 2022;Arsenal;5
+2023;Arsenal;2
 2015;Aston Villa;17
 2016;Aston Villa;20
 2017;Aston Villa;21
@@ -15,6 +16,7 @@
 2020;Aston Villa;17
 2021;Aston Villa;11
 2022;Aston Villa;14
+2023;Aston Villa;7
 2015;Bournemouth;21
 2016;Bournemouth;16
 2017;Bournemouth;9
@@ -24,6 +26,7 @@
 2020;Bournemouth;18
 2021;Bournemouth;21
 2022;Bournemouth;21
+2023;Bournemouth;15
 2015;Brighton;21
 2016;Brighton;21
 2017;Brighton;21
@@ -32,6 +35,7 @@
 2020;Brighton;15
 2021;Brighton;16
 2022;Brighton;9
+2023;Brighton;6
 2015;Burnley;19
 2016;Burnley;21
 2017;Burnley;16
@@ -40,9 +44,11 @@
 2020;Burnley;10
 2021;Burnley;17
 2022;Burnley;18
+2023;Burnley;21
 2017;Cardiff City;21
 2018;Cardiff City;21
 2019;Cardiff City;18
+2020;Cardiff City;21
 2015;Chelsea;1
 2016;Chelsea;10
 2017;Chelsea;1
@@ -51,6 +57,7 @@
 2020;Chelsea;4
 2021;Chelsea;4
 2022;Chelsea;3
+2023;Chelsea;12
 2015;Crystal Palace;10
 2016;Crystal Palace;15
 2017;Crystal Palace;14
@@ -59,6 +66,7 @@
 2020;Crystal Palace;14
 2021;Crystal Palace;14
 2022;Crystal Palace;12
+2023;Crystal Palace;11
 2015;Everton;11
 2016;Everton;11
 2017;Everton;7
@@ -67,6 +75,7 @@
 2020;Everton;12
 2021;Everton;10
 2022;Everton;16
+2023;Everton;17
 2015;Fulham;21
 2016;Fulham;21
 2018;Fulham;21
@@ -74,6 +83,7 @@
 2020;Fulham;21
 2021;Fulham;18
 2022;Fulham;21
+2023;Fulham;10
 2015;Huddersfield;21
 2016;Huddersfield;21
 2017;Huddersfield;21
@@ -82,6 +92,7 @@
 2020;Huddersfield;21
 2021;Huddersfield;21
 2022;Huddersfield;21
+2023;Huddersfield;21
 2015;Hull City;18
 2016;Hull City;21
 2017;Hull City;18
@@ -90,6 +101,7 @@
 2020;Hull City;21
 2021;Hull City;21
 2022;Hull City;21
+2023;Hull City;21
 2015;Leeds United;21
 2016;Leeds United;21
 2017;Leeds United;21
@@ -98,6 +110,7 @@
 2020;Leeds United;21
 2021;Leeds United;9
 2022;Leeds United;17
+2023;Leeds United;19
 2015;Leicester City;14
 2016;Leicester City;1
 2017;Leicester City;12
@@ -107,6 +120,7 @@
 2020;Leicester City;5
 2021;Leicester City;5
 2022;Leicester City;8
+2023;Leicester City;18
 2015;Liverpool;6
 2016;Liverpool;8
 2017;Liverpool;4
@@ -115,6 +129,7 @@
 2020;Liverpool;1
 2021;Liverpool;3
 2022;Liverpool;2
+2023;Liverpool;5
 2015;Man City;2
 2016;Man City;4
 2017;Man City;3
@@ -123,6 +138,7 @@
 2020;Man City;2
 2021;Man City;1
 2022;Man City;1
+2023;Man City;1
 2015;Man United;4
 2016;Man United;5
 2017;Man United;6
@@ -131,6 +147,7 @@
 2020;Man United;3
 2021;Man United;2
 2022;Man United;6
+2023;Man United;3
 2017;Middlesbrough;19
 2015;Newcastle;15
 2016;Newcastle;18
@@ -139,6 +156,7 @@
 2020;Newcastle;13
 2021;Newcastle;12
 2022;Newcastle;11
+2023;Newcastle;4
 2015;Norwich City;21
 2016;Norwich City;19
 2017;Norwich City;21
@@ -147,6 +165,7 @@
 2020;Norwich City;20
 2021;Norwich City;21
 2022;Norwich City;20
+2023;Norwich City;21
 2015;Sheffield United;21
 2016;Sheffield United;21
 2017;Sheffield United;21
@@ -155,6 +174,7 @@
 2020;Sheffield United;9
 2021;Sheffield United;20
 2022;Sheffield United;21
+2023;Sheffield United;21
 2015;Southampton;7
 2016;Southampton;6
 2017;Southampton;8
@@ -163,6 +183,7 @@
 2020;Southampton;11
 2021;Southampton;15
 2022;Southampton;15
+2023;Southampton;20
 2015;Stoke City;9
 2016;Stoke City;9
 2017;Stoke City;13
@@ -172,6 +193,7 @@
 2020;Stoke City;21
 2021;Stoke City;21
 2022;Stoke City;21
+2023;Stoke City;21
 2015;Sunderland;16
 2016;Sunderland;17
 2017;Sunderland;20
@@ -180,10 +202,12 @@
 2020;Sunderland;21
 2021;Sunderland;21
 2022;Sunderland;21
+2023;Sunderland;21
 2015;Swansea;8
 2016;Swansea;12
 2017;Swansea;15
 2018;Swansea;18
+2019;Swansea;21
 2016;Tottenham;3
 2016;Tottenham;5
 2017;Tottenham;2
@@ -192,6 +216,7 @@
 2020;Tottenham;6
 2021;Tottenham;7
 2022;Tottenham;4
+2023;Tottenham;8
 2016;Watford;13
 2017;Watford;17
 2018;Watford;14
@@ -199,6 +224,7 @@
 2020;Watford;19
 2021;Watford;21
 2022;Watford;19
+2023;Watford;21
 2015;West Brom;13
 2016;West Brom;14
 2017;West Brom;10
@@ -206,7 +232,8 @@
 2019;West Brom;21
 2020;West Brom;21
 2021;West Brom;19
-2022;West Brom;32
+2022;West Brom;21
+2023;West Brom;21
 2015;West Ham;12
 2016;West Ham;7
 2017;West Ham;11
@@ -215,6 +242,7 @@
 2020;West Ham;16
 2021;West Ham;6
 2022;West Ham;7
+2023;West Ham;14
 2015;Wolves;21
 2016;Wolves;21
 2017;Wolves;21
@@ -223,28 +251,24 @@
 2020;Wolves;7
 2021;Wolves;13
 2022;Wolves;10
-2023;Arsenal;2
-2023;Aston Villa;7
-2023;Bournemouth;15
-2023;Brentford;9
-2023;Brighton;6
-2023;Burnley;21
-2023;Chelsea;12
-2023;Crystal Palace;11
-2023;Everton;17
-2023;Fulham;10
-2023;Leicester City;18
-2023;Leeds United;19
-2023;Liverpool;5
-2023;Man City;1
-2023;Man United;3
-2023;Newcastle;4
-2023;Norwich City;21
-2023;Nottm Forest;16
-2023;Sheffield United;21
-2023;Southampton;20
-2023;Tottenham;7
-2023;Watford;21
-2023;West Brom;21
-2023;West Ham;14
 2023;Wolves;13
+2024;Man City;1
+2024;Arsenal;2
+2024;Liverpool;3
+2024;Aston Villa;4
+2024;Tottenham;5
+2024;Chelsea;6
+2024;Newcastle;7
+2024;Man United;8
+2024;West Ham;9
+2024;Crystal Palace;10
+2024;Brighton;11
+2024;Bournemouth;12
+2024;Fulham;13
+2024;Wolves;14
+2024;Everton;15
+2024;Brentford;16
+2024;Nottingham;17
+2024;Luton;18
+2024;Burnley;19
+2024;Sheffield United;20
